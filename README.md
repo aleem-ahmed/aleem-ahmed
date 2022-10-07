@@ -4,5 +4,6 @@
 
 ### 1. [W3ST.IO GitHub Organization](https://github.com/w3st-io)
 ### 2. [JJ Vinyls GitHub Organization](https://github.com/jjvinyls)
+### 2. [Cardinal Protocol GitHub Organization](https://github.com/cardinal-protocol)
 
 ###### [Follow Me On LinkedIn](https://www.linkedin.com/in/aleem-ahmed-642529225/)
