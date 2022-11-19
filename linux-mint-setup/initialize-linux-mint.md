@@ -13,22 +13,6 @@
 
 gsettings set org.cinnamon.desktop.screensaver floating-widgets false
 
-
-## VS Code Extension List
-- Bracket Pair Colorizer
-- Debugger for Java
-- Java Dependency Viewer
-- Java Extension Pack
-- Java Test Runner
-- Language Support for Java(TM) by Red Hat
-- Material Icon Theme
-- Maven for Java
-- React Native Tools
-- Simple React Snippets
-- Vetur
-- Visual Studio IntelliCode
-- Vue 2 Snippets
-
 ## Install Snapcraft
 
 https://snapcraft.io/install/heroku/mint
