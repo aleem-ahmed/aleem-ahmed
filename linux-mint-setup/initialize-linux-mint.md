@@ -2,8 +2,9 @@
 
 ## time format
 
+```
 %l:%M:%S %p  [%m/%d]
-
+```
 
 ## WEKA data examples location
 
@@ -35,6 +36,7 @@ reboot
 ```
 
 ## MongoDB Local URI
+
 ```
 mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false
 ```
