@@ -1,57 +1,53 @@
 @import "./variables.css";
 
 decoration {
-	border: 0px solid red;
+    border: 0px solid red;
 }
 
 window.ssd headerbar {
-	min-height: 32px;
-	padding: 0px;
-	/*
-	background-color: rgba(0, 0, 0, 0.9);
-	color: black;
-	border-color: white;
-	*/
-
+    min-height: 32px;
+    padding: 0px;
 }
 
 window.ssd headerbar button {
-	margin: 0px;
-	padding: 0px;
-	/*
-	color: black;
-	*/
+    margin: 0px;
+    padding: 0px;
 }
 
 /*
  * TITLE BUTTON
 */
 window.ssd headerbar button.titlebutton {
-	min-width: 48px;
-	min-height: 32px;
-	background-size: 32px 32px;
+    min-width: 48px;
+    min-height: 32px;
 
-	margin-left: -3px;
-	margin-right: -3px;
-	padding: 0px;
-	
-	border-radius: 0px;
-	
-	background-image: none;
+    margin-left: -3px;
+    margin-right: -3px;
+    padding: 0px;
 }
 window.ssd headerbar button.titlebutton:hover {
-	background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(127, 127, 127, 0.25);
+}
+
+/*
+ * MAXIMIZE BUTTON
+*/
+window.ssd headerbar button.titlebutton.maximize {
+    background-image: none;
+}
+
+/*
+ * MINIMIZE BUTTON
+*/
+window.ssd headerbar button.titlebutton.minimize {
+    background-image: none;
 }
 
 /*
  * CLOSE BUTTON
 */
 window.ssd headerbar button.titlebutton.close {
-	margin: 0px;
-	min-width: 64px;
-	background-size: 48px 48px;
-	border-radius: 0px 8px 0px 0px;
-}
-window.ssd headerbar button.titlebutton.close:hover {
-	background-color: rgba(255, 0, 0, 0.1);
+    min-width: 64px;
+    
+    margin: 0px;
 }
