@@ -1,6 +1,6 @@
 # NOTE: Most of my work is done under other organizations
 
-## Please Visit the Following GitHub Organizations
+## Please visit the following GitHub organizations
 
 * ### [W3ST.IO](https://github.com/w3st-io)
 * ### [Power Market](https://github.com/pwrmarket)
