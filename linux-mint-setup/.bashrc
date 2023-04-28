@@ -6,7 +6,7 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 ## [python]
-alias src="source ~/.bashrc"
+alias src="source ~/.bashrc && tmux source-file ~/.tmux.conf"
 alias py='python3'
 alias todesktop="cd ~/Desktop"
 alias todesk="cd ~/Desktop"
