@@ -8,9 +8,11 @@ alias l='ls -CF'
 ## [python]
 alias src="source ~/.bashrc"
 alias py='python3'
+alias todesktop="cd ~/Desktop"
 alias todesk="cd ~/Desktop"
 alias todocs="cd ~/Documents"
 alias topics="cd ~/Pictures"
+alias desktop="cd ~/Desktop"
 
 # Add an "alert" alias for long running commands.
 ## Use like so:
