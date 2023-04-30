@@ -3,7 +3,7 @@
 ## time format
 
 ```
-%l:%M:%S %p  [%m/%d]
+%l:%M:%S %p  [%Y/%m/%d]
 ```
 
 ## WEKA data examples location
